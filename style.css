@@ -1,0 +1,40 @@
+body {
+    background-color: #f5e3e6;
+    font-family: Arial, sans-serif;
+  }
+  
+  h2 {
+    color: #6d6875;
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #f8edeb;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  label {
+    color: #6d6875;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="date"] {
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #d1ccc0;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  p#resultado {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #6d6875;
+  }
+  
