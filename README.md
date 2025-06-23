@@ -34,7 +34,9 @@ Una pequeña aplicación web que te dice cuántos días faltan para tu próximo 
 
 ## 📷 Captura de pantalla
 
-![Screenshot](/assets/Screenshot%202025-06-23%20104525.png)
+<p align="center">
+  <img src="/assets/Screenshot%202025-06-23%20104525.png" alt="Screenshot" />
+</p>
 
 ---
 
