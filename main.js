@@ -21,7 +21,7 @@ function calcularDias() {
     if (diasFaltantes === 0) {
         document.getElementById("resultados").innerText = "¡Feliz cumpleaños!";
     } else if (diasFaltantes && edad < 150) {
-        document.getElementById("resultados").innerText = `En ${diasFaltantes} día(s), tendrás ${edad + 1} años`;
+        document.getElementById("resultados").innerText = `En ${diasFaltantes} día(s), cumplirás ${edad + 1} años`;
     } else {
         document.getElementById("resultados").innerText = "Por favor ingresa una fecha válida";
     }
