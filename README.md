@@ -48,6 +48,6 @@ MIT License — libre de usar, modificar y compartir.
 
 ## 💡 Autor
 
-Creado con ❤️ por [Ori](https://github.com/malibu54)
+Creado con ❤️ por [Lady Vader](https://github.com/malibu54)
 
 
